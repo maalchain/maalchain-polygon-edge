@@ -1,5 +1,6 @@
+## MaalChain
+Maalchain is built upon polygon-edge, details of which can be found below.
 
-![Banner](.github/banner.jpg)
 [![codecov](https://codecov.io/gh/0xPolygon/polygon-edge/branch/develop/graph/badge.svg?token=PXEADRC1IW)](https://codecov.io/gh/0xPolygon/polygon-edge)
 ## Polygon Edge
 
